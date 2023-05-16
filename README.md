@@ -1,4 +1,4 @@
-==>Phase-1 Practice Project: Assisted Practice(Deep diving clocks, interface and collections
+==>Phase-1 Practice Project: Assisted Practice(Deep diving clocks, interface and collections)
 
 1 Writing a program in Java to implement implicit and explicit type casting
 
@@ -20,7 +20,7 @@
 
 10 Writing a program in Java to verify implementations of regular expressions
 
-==>Phase-1 Practice Project: Assisted Practice(Deep diving multithreading exception and handling and oops
+==>Phase-1 Practice Project: Assisted Practice(Deep diving multithreading exception and handling and oops)
 
 1 Write a program in Java to create a thread by extending the ‘Thread’ class and by implementing the “Runnable” interface
 
@@ -39,3 +39,5 @@
 8 Write a program in Java to demonstrate the uses of classes, objects, and the object-oriented pillars in Java
 
 9 Write a program in Java to resolve the diamond problem using OOPs’ concepts
+
+==>Phase-1 Practice Project: Assisted Practice(Data Structures Arrays and Lists)
