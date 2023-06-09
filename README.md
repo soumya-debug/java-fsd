@@ -113,3 +113,35 @@
 5 Demonstrate how to create, select, and drop a database in JDBC.
 
 6 Demonstrate Insertion, Updation, and Deletion of Database Records using JDBC.
+
+==>Phase-2 Practice Project: Assisted Practice(Creating a hibernate Framework)
+
+1 Configure Hibernate in Eclipse IDE.
+
+2 Configure Hibernate using XML in Eclipse IDE.
+
+3 Configure Hibernate using Annotations in Eclipse IDE.
+
+4 Demonstrate Hibernate logging by Log4j.
+
+5 Demonstrate mapping List, Set, Bag, and Map in collection using XML file.
+
+6 Demonstrate lazy collection in Hibernate.
+
+7 Demonstrate component mapping in Hibernate.
+
+8 Demonstrate integration of Hibernate with spring.
+
+Phase-2 Practice Project: Assisted Practice(Devloping dynamic webpages using jsp)
+
+1 Write a program to configure JSP with Eclipse and Creating a Simple JSP Page.
+
+2 Write a program to demonstrate the function of JSP Implicit Objects.
+
+3 Write a program to demonstrate the use of JSP Directives.
+
+4 Write a program to demonstrate the use of JSP action tags.
+
+5 Write a program to demonstrate session handling in JSP.
+
+
