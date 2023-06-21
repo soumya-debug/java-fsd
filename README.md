@@ -132,7 +132,7 @@
 
 8 Demonstrate integration of Hibernate with spring.
 
-Phase-2 Practice Project: Assisted Practice(Devloping dynamic webpages using jsp)
+==>Phase-2 Practice Project: Assisted Practice(Devloping dynamic webpages using jsp)
 
 1 Write a program to configure JSP with Eclipse and Creating a Simple JSP Page.
 
@@ -144,7 +144,7 @@ Phase-2 Practice Project: Assisted Practice(Devloping dynamic webpages using jsp
 
 5 Write a program to demonstrate session handling in JSP.
 
-Phase-3 Practice Project: Assisted Practice(Create a java application on a spring Framework)
+==>Phase-3 Practice Project: Assisted Practice(Create a java application on a spring Framework)
 
 1 Set up a Spring framework environment.
 
@@ -152,7 +152,7 @@ Phase-3 Practice Project: Assisted Practice(Create a java application on a sprin
 
 3 Create a Java program to demonstrate JDBC and Spring Integration.
 
-Phase-3 Practice Project: Assisted Practice(Create a java application on a spring boot Framework)
+==>Phase-3 Practice Project: Assisted Practice(Create a java application on a spring boot Framework)
 
 1 Spring Boot Exception Handling.
 
@@ -162,7 +162,7 @@ Phase-3 Practice Project: Assisted Practice(Create a java application on a sprin
 
 4 Create a project to enable HTTPS and display in browser.
 
-Phase-3 Practice Project: Assisted Practice(JUnit 5)
+==>Phase-3 Practice Project: Assisted Practice(JUnit 5)
 
 1 Write a program to demonstrate standard tests.
 
@@ -178,6 +178,6 @@ Phase-3 Practice Project: Assisted Practice(JUnit 5)
 
 7 You are given a project to demonstrate RESTful with Spring Boot.
 
-Phase-3 Practice Project: Assisted Practice(Webservices in Java)
+==>Phase-3 Practice Project: Assisted Practice(Webservices in Java)
 
 1 Create a project to demonstrate microservices with Spring Boot.
