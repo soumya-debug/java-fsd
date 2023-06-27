@@ -176,8 +176,14 @@
 
 6 Write a program to demonstrate a dependency injection.
 
+==>Phase-4 Practice Project: Assisted Practice(Customise your application using bootstrap)
+
+1 Import Bootstrap in Your Application .
+
+2 Develop a Static Web Page .
+
+3 Create a form using Bootstrap.
+
+4 Navigation and Pagination.
+
 7 You are given a project to demonstrate RESTful with Spring Boot.
-
-==>Phase-3 Practice Project: Assisted Practice(Webservices in Java)
-
-1 Create a project to demonstrate microservices with Spring Boot.
